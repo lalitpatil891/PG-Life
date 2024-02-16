@@ -7,7 +7,7 @@
 <hr>
 ## 1. The home page 
 a. Search bar, where user can enter city name(in any case), and PGs listed in that city(if exists in database), will be shown as list.<br>
-b. Contains main cities in the form of circular sections, clicking upon which user can get the list of pgs existing in that city.
+b. Contains main cities in the form of circular sections, clicking upon which user can get the list of pgs existing in that city.<br>
 ![HOME](https://github.com/lalitpatil891/PG-Life/assets/114104065/893fa686-f1a9-43f0-b870-d46952b723be)
 
 ## 2.The PG list page
