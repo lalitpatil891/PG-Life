@@ -1,6 +1,6 @@
 # PG-Life
 - PG Life is a Full-Stack Web Application. This is a project that I was assigned to make during my Internshala Full Stack Web Development Internship Training. I got the guidance, and following - that I made this web application with my own undertsnading and knowledge. It is customized according to what I thought would be better functionalities in this app, from the user perspective.
-- This web app is hosted online at:- 
+- This web app is hosted online at:- pglifepro.infinityfreeapp.com/ 
 - Entire web-app is fully responsive and is operational from any device.
 - Tech Stack:- <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
